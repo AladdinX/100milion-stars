@@ -9,7 +9,8 @@ function setup() {
     stroke(random(255),random(255),random(255),random(100));
     ellipse(random(width),random(height),random());
   }
+}
+
   function mousePressed() {
  window.location.reload()
-}
 }
