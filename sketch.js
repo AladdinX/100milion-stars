@@ -6,6 +6,7 @@ function setup() {
   createStars();
 }
 function mousePressed() {
+  background('black');
  createStars();
 }
 
